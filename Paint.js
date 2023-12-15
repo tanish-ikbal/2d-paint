@@ -4,7 +4,7 @@ function Paint (container, settings) {
 
 	this.container = container;
 	this.boundingBoxList = [];
-
+// below is code
 	this.scale = [1, 1]; // Used for horizontal and vertical mirror
 	this.rotation = 0; // Rotation in degrees
 	
